@@ -1,0 +1,9 @@
+slug,english_name,thai_name,category,status,source
+butterfly-valve,Butterfly Valve,ประตูน้ำลิ้นปีกผีเสื้อ,valve,draft,company-website
+gate-valve,Gate Valve,ประตูน้ำลิ้นยก,valve,draft,company-website
+air-valve,Air Valve,ประตูระบายอากาศ,valve,draft,company-website
+sluice-gate,Sluice Gate,ประตูน้ำบานเลื่อน,water-control-gate,reviewed,company-website
+flap-valve,Flap Valve,ประตูระบายน้ำ,non-return-gate,reviewed,company-website
+pipe-fittings,Pipe Fittings,อุปกรณ์ข้อต่อท่อ,fittings,draft,company-website
+pipe-support,Pipe Support,ตุ๊กตารับท่อ,accessory,draft,company-website
+surface-box,Surface Box,หีบกุญแจ,accessory,reviewed,company-website
