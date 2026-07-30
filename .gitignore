@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*
+.env
+.env.*
+secrets/
+private/
+confidential/
