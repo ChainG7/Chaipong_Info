@@ -1,31 +1,34 @@
 ---
+document_id: CPE-KB-ACC-001
 title: Pipe Support
 thai_name: ตุ๊กตารับท่อ
 category: accessory
 status: draft
-source: company-website
+evidence_level: source-claimed
+owner: engineering
+technical_reviewer: pending
+last_reviewed: 2026-07-30
+source_url: https://www.chaipongengineering.com/product/ตุ๊กตารับท่อpipesupport/
+source_accessed: 2026-07-30
 ---
 
 # Pipe Support — ตุ๊กตารับท่อ
 
-Pipe supports carry pipe weight and help control movement and alignment in above-ground water pipelines, pumping stations, treatment facilities, and irrigation works.
+The public page describes a support for carrying pipe and fluid weight, maintaining alignment, reducing sag, and limiting loads transferred to joints and flanges. It presents use with ductile-iron and steel pipelines in waterworks, pumping, irrigation, and treatment facilities.
 
-## Design considerations
+## Engineering design inputs
 
-- Pipe outside diameter and support contact width
-- Pipe, water, valve, and fitting weight
-- Span between supports
-- Vertical, lateral, thermal, and occasional loads
-- Saddle or liner material
-- Anchor-bolt arrangement and concrete capacity
-- Corrosion protection
-- Allowance for expansion or guided movement
-- Maintenance and coating access
+- Pipe outside diameter, wall construction, and support contact width
+- Empty, operating, test, and occasional loads
+- Support spacing and pipe-span analysis
+- Vertical, lateral, thermal, seismic, surge, and vibration loads
+- Support, guide, slide, and anchor restraint function
+- Saddle/liner material and local pipe-shell stress
+- Anchor bolts, base plate, grout, and concrete capacity
+- Corrosion protection and maintenance access
 
-## Important distinction
+The website states that supports can be adapted to pipe size, load, support span, and site condition. No load rating should be inferred without approved calculations and fabrication drawings.
 
-A support, guide, and anchor perform different structural functions. The support type must be selected from the required restraint condition, not only from pipe diameter.
+## Source
 
-## Status
-
-`draft` — load ratings require engineering calculation and approved fabrication drawings.
+[Official Pipe Support page](https://www.chaipongengineering.com/product/ตุ๊กตารับท่อpipesupport/), accessed 2026-07-30.

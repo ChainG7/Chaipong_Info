@@ -1,8 +1,15 @@
 ---
+document_id: CPE-KB-FIT-001
 title: Pipe Fittings
+thai_name: อุปกรณ์ข้อต่อท่อ
 category: fittings
 status: draft
-source: company-website
+evidence_level: source-claimed
+owner: engineering
+technical_reviewer: pending
+last_reviewed: 2026-07-30
+source_url: https://www.chaipongengineering.com/product-category/ข้อต่อท่อ/
+source_accessed: 2026-07-30
 ---
 
 # Pipe Fittings and Pipeline Components
@@ -31,6 +38,8 @@ Public catalogue information identifies product families including:
 - Dimensional tolerance
 - Applicable drawing or standard
 
-## Status
+## Evidence status
 
-`draft` — individual product records should be created from approved drawings and current catalogue data.
+`draft` / `source-claimed` — individual product records should be created from
+approved drawings and the controlled catalogue. Do not use this list as a
+dimensional or procurement specification.

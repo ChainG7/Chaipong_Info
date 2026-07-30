@@ -1,5 +1,8 @@
 # Installation and Maintenance Framework
 
+Status: `reviewed-framework` — general guidance only. The approved project drawing,
+method statement, safety plan, and product-specific manual always take precedence.
+
 ## Before installation
 
 - Verify product tag, size, materials, direction, and approved drawing.
@@ -34,3 +37,12 @@
 ## Safety
 
 Apply site lockout/tagout, confined-space, lifting, stored-energy, pressure-isolation, and water-control procedures. This framework does not replace the project safety plan or product manual.
+
+## Public manufacturer manuals
+
+The company download centre publishes installation/maintenance manuals for product
+families including Butterfly Valve, Gate Valve, Foot Valve, Sluice Gate, Flap
+Valve, Y-Strainer, and T-Strainer. Treat those downloads as public reference copies:
+record their revision/date and compare them with the project submittal before use.
+
+- [Chaipong Engineering download centre](https://www.chaipongengineering.com/ดาวน์โหลด/)

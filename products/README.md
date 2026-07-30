@@ -1,6 +1,22 @@
-# Products
+# Product knowledge
 
-This section organizes products by engineering function rather than by website navigation alone.
+This section organizes public product information by engineering function. Published
+size, pressure, material, and standards data remain `source-claimed` until checked
+against an approved catalogue, drawing, specification, and test requirement.
+
+## Current records
+
+| Family | Record | Status |
+|---|---|---|
+| Valves | [Butterfly Valve](valves/butterfly-valve.md) | `draft` |
+| Valves | [Gate Valve](valves/gate-valve.md) | `draft` |
+| Valves | [Air Valve](valves/air-valve.md) | `draft` |
+| Valves | [Foot Valve](valves/foot-valve.md) | `draft` |
+| Water-control gates | [Sluice Gate](gates/sluice-gate.md) | `reviewed` |
+| Non-return gates | [Flap Valve](gates/flap-valve.md) | `reviewed` |
+| Pipeline components | [Pipe Fittings](fittings/pipe-fittings.md) | `draft` |
+| Accessories | [Pipe Support](accessories/pipe-support.md) | `draft` |
+| Accessories | [Surface Box](accessories/surface-box.md) | `reviewed` |
 
 ## Selection by function
 
@@ -16,7 +32,7 @@ This section organizes products by engineering function rather than by website n
 
 ## Product record requirements
 
-Every product file should state:
+Every product file must state:
 
 1. Function and intended application
 2. Available construction or material options
@@ -26,6 +42,8 @@ Every product file should state:
 6. Size and pressure range only when verified
 7. Testing and inspection requirements
 8. Maintenance points
-9. Source and revision status
+9. Source URL, access date, evidence level, and revision status
 
 See [`templates/product-template.md`](../templates/product-template.md).
+
+The machine-readable index is [`data/products.csv`](../data/products.csv).

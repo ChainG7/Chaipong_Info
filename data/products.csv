@@ -1,9 +1,10 @@
-slug,english_name,thai_name,category,status,source
-butterfly-valve,Butterfly Valve,ประตูน้ำลิ้นปีกผีเสื้อ,valve,draft,company-website
-gate-valve,Gate Valve,ประตูน้ำลิ้นยก,valve,draft,company-website
-air-valve,Air Valve,ประตูระบายอากาศ,valve,draft,company-website
-sluice-gate,Sluice Gate,ประตูน้ำบานเลื่อน,water-control-gate,reviewed,company-website
-flap-valve,Flap Valve,ประตูระบายน้ำ,non-return-gate,reviewed,company-website
-pipe-fittings,Pipe Fittings,อุปกรณ์ข้อต่อท่อ,fittings,draft,company-website
-pipe-support,Pipe Support,ตุ๊กตารับท่อ,accessory,draft,company-website
-surface-box,Surface Box,หีบกุญแจ,accessory,reviewed,company-website
+document_id,slug,english_name,thai_name,category,status,evidence_level,file_path,source_url,source_accessed
+CPE-KB-VAL-001,butterfly-valve,Butterfly Valve,ประตูน้ำลิ้นปีกผีเสื้อ,valve,draft,source-claimed,products/valves/butterfly-valve.md,https://www.chaipongengineering.com/product/butterfly-valve/,2026-07-30
+CPE-KB-VAL-002,gate-valve,Gate Valve,ประตูน้ำลิ้นยก,valve,draft,source-claimed,products/valves/gate-valve.md,https://www.chaipongengineering.com/product/gate-valve/,2026-07-30
+CPE-KB-VAL-003,air-valve,Air Valve,ประตูระบายอากาศ,valve,draft,source-claimed,products/valves/air-valve.md,https://www.chaipongengineering.com/product/double-air-valve/,2026-07-30
+CPE-KB-VAL-004,foot-valve,Foot Valve,หัวกะโหลกทางดูด,valve,draft,source-claimed,products/valves/foot-valve.md,https://www.chaipongengineering.com/product/foot-valve/,2026-07-30
+CPE-KB-GATE-001,sluice-gate,Sluice Gate,ประตูน้ำบานเลื่อน,water-control-gate,reviewed,source-claimed,products/gates/sluice-gate.md,https://www.chaipongengineering.com/product/sluice-gate-cast-iron/,2026-07-30
+CPE-KB-GATE-002,flap-valve,Flap Valve,ประตูระบายน้ำ,non-return-gate,reviewed,source-claimed,products/gates/flap-valve.md,https://www.chaipongengineering.com/product/flap-valve/,2026-07-30
+CPE-KB-FIT-001,pipe-fittings,Pipe Fittings,อุปกรณ์ข้อต่อท่อ,fittings,draft,source-claimed,products/fittings/pipe-fittings.md,https://www.chaipongengineering.com/product-category/ข้อต่อท่อ/,2026-07-30
+CPE-KB-ACC-001,pipe-support,Pipe Support,ตุ๊กตารับท่อ,accessory,draft,source-claimed,products/accessories/pipe-support.md,https://www.chaipongengineering.com/product/ตุ๊กตารับท่อpipesupport/,2026-07-30
+CPE-KB-ACC-002,surface-box,Surface Box,หีบกุญแจ,accessory,reviewed,source-claimed,products/accessories/surface-box.md,https://www.chaipongengineering.com/product/surface-box/,2026-07-30
